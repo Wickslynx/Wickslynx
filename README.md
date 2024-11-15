@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Wickslynx, a secondary school student that likes programming.
+- 👋 Hello, I'm Wickslynx, a junior high school student that likes programming.
 - 👀 I’m interested in C++, C and Python.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: Wickslynx@yahoo.com
