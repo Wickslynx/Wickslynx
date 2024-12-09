@@ -2,8 +2,7 @@
 - 👀 I’m interested in C++, C and Python.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: Wickslynx@yahoo.com
-- 🧰 Examples of my work: 📱 Gui Framework made using C (roofnut)  /  🏛️ Database made using C++ (AuroraDB)  / 🛜 Http server using C++ and C. (AuroraServer) /
-- 💻 Log in system using HTML, CSS and JS.  /  💦 Weather App using Python.
+- 🧰 Examples of my work: 📱 Gui Framework made using C (roofnut)  /  🏛️ Database made using C++ (AuroraDB)  / 🛜 Http server using C++ and C. (AuroraServer) / 💻 Log in system using HTML, CSS and JS.  /  💦 Weather App using Python.
 - 🇸🇪 Nationality: Swedish.
 - 🛡️ Intrested in Cyber Security.
 - ⏳ Time: Programmed for three years.
