@@ -13,6 +13,6 @@ A junior high school student with a passion for programming.
 
 ⏳ Programming Experience: 3 years
 
-🧭 Current Availability: Not taking new projects, school and Roofnut keep me busy.
+🧭 Current Availability: Not taking new projects, school keep me busy.
 
 <!--- Wickslynx/Wickslynx is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
