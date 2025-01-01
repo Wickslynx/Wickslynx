@@ -9,7 +9,7 @@ A junior high school student with a passion for programming.
 
 🇸🇪 Nationality: Swedish
 
-🛡️ Interested in: Cyber Security
+🛡️ Interested in: Cyber Security and Embedded Programming.
 
 ⏳ Programming Experience: 3 years
 
