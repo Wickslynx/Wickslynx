@@ -3,7 +3,7 @@ A junior high school student with a passion for programming.
 
 🌟 Interests: C++, C, Python
 
-🎓 Currently Learning: C++
+🎓 Currently Learning: C
 
 📧 Reach Me: Wickslynx@yahoo.com
 
@@ -13,6 +13,6 @@ A junior high school student with a passion for programming.
 
 ⏳ Programming Experience: 3 years
 
-🧭 Current Availability: Not taking new projects, school keep me busy.
+🧭 Current Availability: Well, i can help with projects but will probably focus more one my own projects. 
 
 <!--- Wickslynx/Wickslynx is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
