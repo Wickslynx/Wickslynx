@@ -1,51 +1,22 @@
-👋 Hello, I'm Wickslynx!
-
-I'm a junior high school student with a passion for programming and computers!
+👋 Hello, I'm Wickslynx A junior high school student with a passion for programming.
 
 
-🌟 My Interests:
-
-   C++: Making fast, efficient and powerful software.
-
-   C: Low level acces to the machine.
-
-   Python: Automating tasks and exploring AI.
-
-   
-  
-🎓 Currently Learning:
-
-   C: Need to understand the fundementals.
+🌟 Interests: C++, C, Python
 
 
-   
-📧 Reach Me:
-
-You can reach out to me at Wickslynx@yahoo.com. I will respond within 1 - 7 days.
+🎓 Currently Learning: C
 
 
-
-🇸🇪 Nationality
-
-Proudly Swedish! 🇸🇪
+📧 Reach Me: Wickslynx@yahoo.com 
 
 
-
-🛡️ Areas of Interest:
-
-   Cyber Security: Protecting the digital world.
-
-   Embedded Programming: Making stuff IRL. (ESP32)
-
-   Databases, Servers, Operating systems: Whatever i find interesting, (AuroraDB, AuroraServer, AuroraOS)
-   
+🇸🇪 Nationality: Swedish 
 
 
-⏳ Programming Experience:
-
-I've been coding for 3 years, gaining experience with each project!
+🛡️ Interested in: Cyber Security and Embedded Programming.
 
 
-🧭 Current Availability:
+⏳ Programming Experience: 3 years
 
-I'm open to collaborating on projects, though I may focus more on my own endeavors.
+
+🧭 Current Availability: Well, i can help with projects but will probably focus more one my own projects.
