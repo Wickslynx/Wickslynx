@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Swedish, English, German</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Embedded devices, Servers, Databases, OS/tspan>
+<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Embedded devices, Servers, Databases, OSs</tspan>
 <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">ESP32, Overclocking</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
@@ -55,7 +55,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">@Wickslynx</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">9</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">500+</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">2</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4000+</tspan> | </text>
 
-</svg>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">9</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">500+</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">2</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4000+</tspan> |
+</text>
