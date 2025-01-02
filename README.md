@@ -2,6 +2,7 @@
 
 I'm a junior high school student with a passion for programming and computers!
 
+
 🌟 My Interests:
 
    C++: Making fast, efficient and powerful software.
@@ -14,15 +15,18 @@ I'm a junior high school student with a passion for programming and computers!
 
    C: Need to understand the fundementals.
 
+
    
 📧 Reach Me:
 
 You can reach out to me at Wickslynx@yahoo.com. I will respond within 1 - 7 days.
 
 
+
 🇸🇪 Nationality
 
 Proudly Swedish! 🇸🇪
+
 
 
 🛡️ Areas of Interest:
@@ -33,6 +37,7 @@ Proudly Swedish! 🇸🇪
 
    Databases, Servers, Operating systems: Whatever i find interesting, (AuroraDB, AuroraServer, AuroraOS)
    
+
 
 ⏳ Programming Experience:
 
