@@ -10,8 +10,10 @@ I'm a junior high school student with a passion for programming and computers!
    C: Low level acces to the machine.
 
    Python: Automating tasks and exploring AI.
+
+   
   
-🎓 Currently Learning
+🎓 Currently Learning:
 
    C: Need to understand the fundementals.
 
