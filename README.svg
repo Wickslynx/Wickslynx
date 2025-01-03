@@ -42,7 +42,7 @@
     <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Unknown</tspan>
     <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">NVIM 0.11 / VSCode  1.96</tspan>
     <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
-    <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
+    <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
     <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Swedish, English, German</tspan>
     <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Embedded devices, Servers, Databases, OSs</tspan>
     <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">ESP32, Overclocking</tspan>
